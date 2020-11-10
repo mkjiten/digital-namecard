@@ -39,10 +39,10 @@ img.profile-pic {
 	border-radius: 50%;
 }
 img.QR-Code {
-	height: 50%;
+	height: 80%;
 	width: 50%;
 	object-fit: cover;
-	border-radius: 20%;
+	border-radius: 0%;
 }
 
 
