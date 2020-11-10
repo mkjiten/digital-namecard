@@ -173,6 +173,9 @@ img.QR-Code {
 .bottom {
 	height: 23%;
 }
+.qrcode{
+	height: 40%;
+}
 
 .button {
 	background-color: #219653;
