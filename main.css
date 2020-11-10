@@ -38,6 +38,13 @@ img.profile-pic {
 	object-fit: cover;
 	border-radius: 50%;
 }
+img.QR-Code {
+	height: 50%;
+	width: 50%;
+	object-fit: cover;
+	border-radius: 20%;
+}
+
 
 .container {
 	margin: 0 auto;
